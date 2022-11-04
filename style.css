@@ -5,14 +5,14 @@
 
 #cabecalho {
     height: 100px;
-    background-color: aquamarine (212, 212, 192);
+    background-color: rgba(225,127,127);
     margin: 0 auto;
 }
 
 #menu {
     width: 20%;
     height: 600px;
-    background-color: aquamarine(185, 180, 174);
+    background-color: rgba(164,229,231, 0.863);
     float: left;
     margin-top: 10px;
 
