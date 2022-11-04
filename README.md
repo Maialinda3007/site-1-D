@@ -2,7 +2,7 @@
 desenvolvimento de site 3 trimestre
 <body>
 <div id="cabeçalho">
-  <br><p>Viajens incriveis- logo,imagens,menu<p>
+  <br><p>CABECALHO- logo,imagens,menu<p>
   </div>
   <div id="menu">
   <br><p>MENU<p>
