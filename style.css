@@ -27,10 +27,14 @@
     margin-bottom: 10px;
 }
 
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 #rodape {
     background-color: aquamarine(212, 212, 192);
-    display: block;
 }
+
 
 p {
     text-align: center;
