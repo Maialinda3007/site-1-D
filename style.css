@@ -20,7 +20,7 @@
 
 #principal {
     width: 80%;
-    height: 600px;
+    height: 100%;
     background-color: azure;
     float: left;
     margin-top: 10px;
@@ -30,7 +30,6 @@
 #rodape {
     height: 50px;
     background-color: aquamarine(212, 212, 192);
-    clear: both;
 }
 
 p {
