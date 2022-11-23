@@ -30,6 +30,7 @@
 #rodape {
     height: 50px;
     background-color: aquamarine(212, 212, 192);
+    float: inherit;
 }
 
 p {
