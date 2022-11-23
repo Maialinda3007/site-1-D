@@ -20,12 +20,12 @@
 #menu > a{
     text-decoration: none;
     font-size: 18px;
-        
+
 }
 
 #principal {
     width: 80%;
-    height: 800px;
+    height: 600px;
     background-color: azure;
     float: left;
     margin-top: 10px;
