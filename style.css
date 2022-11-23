@@ -29,6 +29,7 @@
 
 #rodape {
     background-color: aquamarine(212, 212, 192);
+    display: block;
 }
 
 p {
